@@ -48,13 +48,28 @@ h1 {
 }
 
 /* Feature section */
-
-
 #features{
-    margin: 100px 300px;
+    padding: 7% 15%;
 }
 
-#features .feature i{
-    height: 50px;
-    width: 50px;
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+h3{
+    font-family: "Monserrat-Bold";
+}
+
+p{
+    color: #8F8F8F;
+}
+
+.icon{
+    color: #EF8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #FF4C68;
 }
