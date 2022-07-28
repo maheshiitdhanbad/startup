@@ -73,3 +73,49 @@ p{
 .icon:hover{
     color: #FF4C68;
 }
+
+/* Testimonial section */
+
+#testimonials{
+    text-align: center;
+    background-color: #EF8172;
+    color: #FFF;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+h2{
+    font-family: "Monserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonials-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 2%;
+}
+
+/* Press Section */
+#press{
+    background-color: #EF8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 50px 20px ;
+}
+
+/* Pricing */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.price-column{
+    padding: 3% 2%;
+}
